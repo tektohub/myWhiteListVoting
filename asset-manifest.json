@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WhiteList-on-heroku/static/css/main.b100e6da.chunk.css",
+    "main.js": "/WhiteList-on-heroku/static/js/main.421d4b39.chunk.js",
+    "main.js.map": "/WhiteList-on-heroku/static/js/main.421d4b39.chunk.js.map",
+    "runtime-main.js": "/WhiteList-on-heroku/static/js/runtime-main.820d075c.js",
+    "runtime-main.js.map": "/WhiteList-on-heroku/static/js/runtime-main.820d075c.js.map",
+    "static/css/2.6a23f8e0.chunk.css": "/WhiteList-on-heroku/static/css/2.6a23f8e0.chunk.css",
+    "static/js/2.d609261b.chunk.js": "/WhiteList-on-heroku/static/js/2.d609261b.chunk.js",
+    "static/js/2.d609261b.chunk.js.map": "/WhiteList-on-heroku/static/js/2.d609261b.chunk.js.map",
+    "index.html": "/WhiteList-on-heroku/index.html",
+    "precache-manifest.9be0b011d20bd698b908765922feb296.js": "/WhiteList-on-heroku/precache-manifest.9be0b011d20bd698b908765922feb296.js",
+    "service-worker.js": "/WhiteList-on-heroku/service-worker.js",
+    "static/css/2.6a23f8e0.chunk.css.map": "/WhiteList-on-heroku/static/css/2.6a23f8e0.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/WhiteList-on-heroku/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820d075c.js",
+    "static/css/2.6a23f8e0.chunk.css",
+    "static/js/2.d609261b.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.421d4b39.chunk.js"
+  ]
+}
